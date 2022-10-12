@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "proyecto-guia-documentacion",
+    "slug": "proyecto-guia-documentacion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "proyecto-guia-documentacion"
+}
